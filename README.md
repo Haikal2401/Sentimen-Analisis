@@ -14,3 +14,5 @@ Dataset diambil dengan mengumpulkan data pada pendekatan scraping data (lebih te
 
 Pembagian dilakukan dengan rasio 90:10, di mana 90% data digunakan untuk melatih model, sementara 10% sisanya digunakan untuk menguji performa model.
 
+![Chart Distribusi Prediksi Fold ke 10](Img/Jumlah_Komentar_Data_Testing.jpeg)
+
