@@ -20,6 +20,9 @@ Pembagian dilakukan dengan rasio 90:10, di mana 90% data digunakan untuk melatih
 
 ![alt text](<Img/confusion matrix.jpeg>)
 
+![alt text](<Img/tahapan akurasi.jpeg>)
+
+
 ### Hasil Wordcloud
 
 ![alt text](<Img/wordcloud positif.jpeg>)
