@@ -1,6 +1,6 @@
 ### analisis-sentimen-naive-bayes
 
-Merupakan Projek Tugas Akhir(Skripsi) Haikal Setiawan, Projek ini menganalisis ulasan-ulasan yang ada pada review Google Play Store di Alikasi SuperApp Byond by BSI
+Merupakan Projek Tugas Akhir(Skripsi) Haikal Setiawan, Projek ini menganalisis review di Google Play Store pada Aplikasi SuperApp Byond by BSI dengan menggunakan metode Naive Bayes.
 
 
 
