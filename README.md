@@ -27,6 +27,9 @@ Pembagian dilakukan dengan rasio 90:10, di mana 90% data digunakan untuk melatih
 
 ![alt text](<Img/wordcloud positif.jpeg>)
 
+![alt text](Img/negatif.jpeg)
+
+
 
 
 
