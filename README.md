@@ -16,3 +16,4 @@ Pembagian dilakukan dengan rasio 90:10, di mana 90% data digunakan untuk melatih
 
 ![Chart Distribusi Prediksi Fold ke 10](Img/Jumlah_Komentar_Data_Testing.jpeg)
 
+![alt text](<Img/Hasil Pengujian K-Fold.jpeg>)
