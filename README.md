@@ -6,7 +6,7 @@ Merupakan Projek Tugas Akhir(Skripsi) Haikal Setiawan, Projek ini menganalisis r
 
 ### Dataset
 
-Dataset diambil dengan mengumpulkan data pada pendekatan scraping data (lebih tepatnya web scraping API) dari Google Play Store, kemudian rating bintang yang menyertai setiap ulasan digunakan sebagai label. Strategi ini mengadopsi pendekatan *distant supervision*.
+Dataset diambil dengan mengumpulkan data pada pendekatan scraping data (lebih tepatnya web scraping API) dari Google Play Store, kemudian rating bintang yang menyertai setiap ulasan digunakan sebagai label. Strategi ini mengadopsi pendekatan *Distant Supervision*.
 
 
 
